@@ -1,0 +1,8 @@
+
+[Activity]
+name = tank battle
+activity_version = 1
+bundle_id = org.ceibaljam.tankkbattle
+exec = sugar-activity JAMActivityFlash.JAMActivityFlash
+icon = JAMActivityFlash
+show_launcher = yes
